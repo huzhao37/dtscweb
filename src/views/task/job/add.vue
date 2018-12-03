@@ -312,7 +312,7 @@
                     if(_this.job!==null){
                         _this.name=_this.job.Name;
                         _this.cron=_this.job.Cron;
-                        _this.dataJson=_this.job.DataMap;
+                        _this.dataJson=_this.job.Datamap;
                         _this.version=_this.job.Version;
                         _this.single=_this.job.Single;
                         _this.categoryId=_this.job.CategoryId;
@@ -333,7 +333,7 @@
                     if(_this.job!==null){
                         _this.name=_this.job.Name;
                         _this.cron=_this.job.Cron;
-                        _this.dataJson=_this.job.DataMap;
+                        _this.dataJson=_this.job.Datamap;
                         _this.version=_this.job.Version;
                         _this.single=_this.job.Single;
                         _this.categoryId=_this.job.CategoryId;
@@ -353,7 +353,7 @@
                     if(_this.job!==null){
                         _this.name=_this.job.Name;
                         _this.cron=_this.job.Cron;
-                        _this.dataJson=_this.job.DataMap;
+                        _this.dataJson=_this.job.Datamap;
                         _this.version=_this.job.Version;
                         _this.single=_this.job.Single;
                         _this.categoryId=_this.job.CategoryId;
